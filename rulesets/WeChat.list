@@ -1,2 +1,7 @@
 #WeChat
+USER-AGENT,MicroMessenger*
+USER-AGENT,WeChat*
 DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,servicewechat.com
+IP-CIDR,101.33.20.0/32,no-resolve
+IP-CIDR,43.159.77.0/32,no-resolve
