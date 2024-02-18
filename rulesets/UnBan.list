@@ -3,3 +3,7 @@ DOMAIN,ad.12306.cn
 
 # namecheap
 DOMAIN,dynamicdns.park-your-domain.com
+
+# SunloginClient
+PROCESS-NAME,SunloginClient,DIRECT
+
